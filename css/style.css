@@ -47,6 +47,7 @@ header {
 a {
   text-decoration: none;
   color: var(--color-black);
+  /*dovevamo dare inline-block cosi poteva prendere padding top bottom e laterali cosi la superfice cliccabile diventa maggiore e non solo il testo. */
 }
 
 ul li {
